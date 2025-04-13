@@ -2,8 +2,8 @@
 
 > **Outrun the cops, dominate the streets, and become the most wanted racer!**
 
-![Game Banner](https://i.imgur.com/5XvJk3G.png)  
-*Replace with actual gameplay screenshot or GIF for best impact.*
+![Screenshot 2025-04-13 150000](https://github.com/user-attachments/assets/50696786-5bba-410d-a4cc-13c660504acf)
+
 
 ---
 
