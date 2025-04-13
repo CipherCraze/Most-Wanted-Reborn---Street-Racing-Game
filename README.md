@@ -52,13 +52,20 @@ java MostWantedReborn
 
 ## 📸 Screenshots
 
-| Main Menu | Street Race | Police Chase |
-|-----------|-------------|---------------|
-| ![Menu](https://i.imgur.com/abc123.png) | ![Race](https://i.imgur.com/def456.png) | ![Police](https://i.imgur.com/ghi789.png) |
+### Main Menu
 
-*Replace with real in-game visuals to attract attention!*
+![Screenshot 2025-04-13 153625](https://github.com/user-attachments/assets/8a2c0a74-5afc-4411-86af-a1fd281e271d)
 
----
+
+### Street Race
+
+![Screenshot 2025-04-13 153807](https://github.com/user-attachments/assets/c232ba2e-6f38-4bd0-a438-856b22ea0e0c)
+
+
+### Police Chase
+
+![Screenshot 2025-04-13 153930](https://github.com/user-attachments/assets/21d87e8f-0cf1-470b-b7c6-1029f98f3512)
+
 
 ## 🛠️ Game Mechanics
 
